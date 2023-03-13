@@ -6,6 +6,7 @@ Workflow 86 bugs
 To Run Suite
 
 npm install
+
 npx playwright test --headed
 
 
