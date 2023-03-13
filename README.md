@@ -10,4 +10,5 @@ npx playwright test --headed
 
 
 Notes- Enter the username/password in config default.env
+
 yopmail may throw recpatcha, this demo uses yopmail
