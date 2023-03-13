@@ -1,0 +1,279 @@
+{
+  "cookies": [
+    {
+      "name": "CLID",
+      "value": "7c10fbb377f544c38aa005fddf82ea36.20230313.20240312",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1710269425.362292,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "agsbg7|1|f9v|0",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1710269425,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "value": "0621BDBD84D56BC7145DAF6E85226A5F",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1712429427.372409,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1679338227.37245,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "0621BDBD84D56BC7145DAF6E85226A5F",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1712429427.372464,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "0621BDBD84D56BC7145DAF6E85226A5F",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1712429426.442504,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1679338226.44253,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1678734026.442539,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "intercom-id-gdyabshp",
+      "value": "a155d205-d0ae-48c0-8315-195ac5a75c27",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1702063427,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "intercom-session-gdyabshp",
+      "value": "",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1679338227,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "intercom-device-id-gdyabshp",
+      "value": "19be8cb6-d40b-4e4c-88e2-bcd586f0f5d6",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1702063427,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m",
+      "value": "f3bc3f05-0781-4c5f-b8b0-ff05071e4ef08e9d23",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "expires": 1713293427.300038,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__stripe_mid",
+      "value": "8a760aa5-19a8-4544-a7db-c0cf160043bf22cfc9",
+      "domain": ".app.workflow86.com",
+      "path": "/",
+      "expires": 1710269427,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__stripe_sid",
+      "value": "57803773-b1bf-4093-8498-ab591078ecf6434cb6",
+      "domain": ".app.workflow86.com",
+      "path": "/",
+      "expires": 1678735227,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_clsk",
+      "value": "vcowl8|1678733427364|1|1|z.clarity.ms/collect",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1678819827,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.7k5h7tnrnkdcg78d9ofpt1opij.contact%40akshayy.com.refreshToken",
+      "value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.ktyRLmuIjydPAXu0bCr4BsgljiWZ4kuy3Ap18ROOCvgG4sAjJbBwkzTjvkHt3n3hlX3XcnyNBU2ryP75qFBM6JURR7KpSDzbxmASqUTRY9V_vjb3AswNgcRZ2NTDVYCeV-K_pFtOA2KlCoLxgdLonHpw0Ri9BIK2ec5R6t_PeQlWPTAWu2-PWg3jgHo1BPhlIX5kLOl86NU0lCwYW3RJFKmOps5suwKsC4ZBfleyvGwAJ8u3Wy6CNshG3plF2o1XH2GEWgcWOU250Dii21MfoAYNeXt_PuGPRRdS28K4ycsKHT3Tp_GLM173uHGBcIt_9_PJXg40cbIxRT0uCrwkYA._mUsBOtGpMWft5Ee.jn3NoP0QGYxI5UQ71dfs9YejsvphMqhyRmIy91fsrFtM5oAJ6IMHaB_T-_fza3NkTYLqaEFkf7vZ1vHFzh6OHWzC48dLv9hsjSnzvojBG3v6foxwnxGTxSQ29qqt909-RVQUyqkFvpW3FQxHWTjBNaQ0YEHYwMYsFXk5ielqDERq0CMVuaT_80HXm3oYZ8EYI21iszTi8Xt8oKxf1MBDDhUtYLcj0kb4FJl8f_p11EISjf447XSKfIk-As3c-DUUFSKZJDohfvjRzG3XAggBsmwFMO8nHdZNZCzKDDMO-_a9ve4zocLWdk65AhklbnKG2Msu6DPRYpX85EsZplmdo1zCKCoErKz-67O69egTOlRgWC2rSXmvZLTjrsic2Qx8SZciNOBx8-DEwR-1tna_GuXuGhuxJpDBUa64HpQ5BKJu6y913BBkSkiG8clnOhTF5nT4O7hcbCV6CCt_5p7EViLKJg_S8p5FTlqGJzaYVX-PedKZpf47wHcsRtY9d2c3_1q41KJv6Tj9GSdvalzX0oxqTKrGCarEIYuLEGCdJQmjy_BfziPZ3o5ErMpGNaZ7tGVZ9XwgCoEK5LqXtS-D8zer7ShxgKyAWuH63eQecWtWbUVzSwzjS6zOMNnMiFQPcYd7j3m6oyfSJb4rnguX5S2p9dHSW1XscUHMH_8dFIFUAoAgVnZjTOaIzBQH3oQLyYZlU1I6RH9XeyZx2zWv99yrx3G8VxTg9AomDm2K8qnyrf1tsi2rOoXDVqILiAzBpkPH7kaD3Dw_jxcWc90SFqeXTPuMuEz4QAVVrBXWZvPyWY0zdYBxJgGrJnIvHmrOCoY4_S_hTasZbPzD_q6_ytk89aZ7GMdtBWsuUZo-1VI5_LwEp564DpoC-Erg3bik1prDA8b-IXs_jfoV5xUcS7q4eeN0QStrN46Vl3shuaNqU6-A6szdej6jpbdSXmBk_iI4IA44J1oBKtnm_SGMaIfOomW2ZfiVK8wgwQx9JVwBgTRJrZ-91F_WuZXQyPIHUGgBG8O-WRJ9Zy_hygRlXETuxrXmaRIgIBTQIjCwhVqB9YJ4ga1O-jx-8ABBz9gqeoymGqsy_oLt2vJectneH7GJKxLIur14-CnL3WEjKDciLB0lB-ac1lHzlazLJvvs4bhGCgrqvGiDh8quQPGh2tiVxLATocfd6NIUp45eqo7I2VEBPiy2eonb0V9Mcc9S80Bxuuf6PJCCkkRxWrJ5HZ23SWHYNJ4rNdG8uVkFVzZdIDAKSBIXzUKa353YNeGsnHkN9mlufN5bBH-QYjnpar4RwtW7ATd0E4Fm37XfIfBnsmtz-DILqoMABbrR5phdTlVRFAUCQYL1hU4ZtayUOli3w5-zhT5fJ859UckvtaLcZ97xJjlxa_DkQMQ2UNsWqdbJ334K7KfiFq86ymKZ52F09B4Sp95V3Tq6u_tcpav7Rt_nN6bOVw.MldwaQsmzCC5z1QYxDpxcA",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1678819830,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.7k5h7tnrnkdcg78d9ofpt1opij.LastAuthUser",
+      "value": "contact@akshayy.com",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1678819830,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.7k5h7tnrnkdcg78d9ofpt1opij.contact%40akshayy.com.deviceKey",
+      "value": "ap-southeast-2_f7a21b27-e717-4822-9f60-baa97d66716a",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1678819828,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.7k5h7tnrnkdcg78d9ofpt1opij.contact%40akshayy.com.randomPasswordKey",
+      "value": "Xgh/UkBf6HfBqchdpkwwisU9x9hEFUFsuiOlYMu6NAZrm/h5vilYuQ==",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1678819828,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.7k5h7tnrnkdcg78d9ofpt1opij.contact%40akshayy.com.deviceGroupKey",
+      "value": "-SRWZZHQD",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1678819828,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.7k5h7tnrnkdcg78d9ofpt1opij.contact%40akshayy.com.userData",
+      "value": "{%22UserAttributes%22:[{%22Name%22:%22sub%22%2C%22Value%22:%228cf70354-196b-49d7-b64c-9b14a43c2181%22}%2C{%22Name%22:%22identities%22%2C%22Value%22:%22[{%5C%22userId%5C%22:%5C%22Google_102031158121141575747%5C%22%2C%5C%22providerName%5C%22:%5C%22Google%5C%22%2C%5C%22providerType%5C%22:%5C%22Google%5C%22%2C%5C%22issuer%5C%22:null%2C%5C%22primary%5C%22:false%2C%5C%22dateCreated%5C%22:1676879141429}]%22}%2C{%22Name%22:%22email_verified%22%2C%22Value%22:%22true%22}%2C{%22Name%22:%22email%22%2C%22Value%22:%22contact@akshayy.com%22}]%2C%22Username%22:%22Google_102031158121141575747%22}",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1678819829,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.7k5h7tnrnkdcg78d9ofpt1opij.contact%40akshayy.com.idToken",
+      "value": "eyJraWQiOiI5T2xjXC9sWUx6Ym9md1dRMTlyVERMWFJ2TjR2MTJUUkV4NGRUN1RkZFlXST0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI4Y2Y3MDM1NC0xOTZiLTQ5ZDctYjY0Yy05YjE0YTQzYzIxODEiLCJjb2duaXRvOmdyb3VwcyI6WyJhcC1zb3V0aGVhc3QtMl80cGt1YVZZWllfR29vZ2xlIl0sImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtc291dGhlYXN0LTIuYW1hem9uYXdzLmNvbVwvYXAtc291dGhlYXN0LTJfNHBrdWFWWVpZIiwiY29nbml0bzp1c2VybmFtZSI6Ikdvb2dsZV8xMDIwMzExNTgxMjExNDE1NzU3NDciLCJvcmlnaW5fanRpIjoiNTFhNzg0YjQtYjRiOC00Nzg5LWEyMDctNzNjODEwYmY3NzI5IiwiYXVkIjoiN2s1aDd0bnJua2RjZzc4ZDlvZnB0MW9waWoiLCJpZGVudGl0aWVzIjpbeyJ1c2VySWQiOiJHb29nbGVfMTAyMDMxMTU4MTIxMTQxNTc1NzQ3IiwicHJvdmlkZXJOYW1lIjoiR29vZ2xlIiwicHJvdmlkZXJUeXBlIjoiR29vZ2xlIiwiaXNzdWVyIjpudWxsLCJwcmltYXJ5IjoiZmFsc2UiLCJkYXRlQ3JlYXRlZCI6IjE2NzY4NzkxNDE0MjkifV0sImV2ZW50X2lkIjoiOWZiOGYwYTMtYjg4Mi00ODQzLWE1OWQtZGU1ODQyZGFjMWEzIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE2Nzg3MzM0MjYsImV4cCI6MTY3ODczNDMyOSwiaWF0IjoxNjc4NzMzNDI5LCJqdGkiOiIyMDI5MTgyYS1jNzIxLTQyYTgtODk2YS0zNjg0MDk1NGRmZDYiLCJlbWFpbCI6ImNvbnRhY3RAYWtzaGF5eS5jb20ifQ.BebRk6eq7QNvQjpV_CQCeIN2HR1Ufi27PT0B8rsqzQhDluqtiqbDr5HK12r29octe2lzOpESdfngbClOXXl5kWO5bbvZxJ05KGZzvvOLPNalYXQV-9WRPHaLhxyRjqvMyuux79BbHgzZVYHgJRJOqb0O_vA03kO79YaFXqPfG4Y6lJTVji3MwKla4z1cfmhOhZL_jO-oeTKYtu6jbl-VUmNuKPtQy9SYKSkpp0Vj5ATqD3II3sIlxNOvPDOTuO5njuFmyOKqZiC9Kre4iMoXCrWw3JEsDLXjzFkeuvaXXzZYNd6zotA88eXHZbzUEBC7mtE2G34uJmIZBX8K9tcW-A",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1678819830,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.7k5h7tnrnkdcg78d9ofpt1opij.contact%40akshayy.com.accessToken",
+      "value": "eyJraWQiOiJaejFCMVUzTXh5U1JvdmdDdk5qZlgzYWUxZnd0VnNNbkhrZVRaM1RuWEJjPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI4Y2Y3MDM1NC0xOTZiLTQ5ZDctYjY0Yy05YjE0YTQzYzIxODEiLCJkZXZpY2Vfa2V5IjoiYXAtc291dGhlYXN0LTJfZjdhMjFiMjctZTcxNy00ODIyLTlmNjAtYmFhOTdkNjY3MTZhIiwiY29nbml0bzpncm91cHMiOlsiYXAtc291dGhlYXN0LTJfNHBrdWFWWVpZX0dvb2dsZSJdLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtc291dGhlYXN0LTIuYW1hem9uYXdzLmNvbVwvYXAtc291dGhlYXN0LTJfNHBrdWFWWVpZIiwiY2xpZW50X2lkIjoiN2s1aDd0bnJua2RjZzc4ZDlvZnB0MW9waWoiLCJvcmlnaW5fanRpIjoiNTFhNzg0YjQtYjRiOC00Nzg5LWEyMDctNzNjODEwYmY3NzI5IiwiZXZlbnRfaWQiOiI5ZmI4ZjBhMy1iODgyLTQ4NDMtYTU5ZC1kZTU4NDJkYWMxYTMiLCJ0b2tlbl91c2UiOiJhY2Nlc3MiLCJzY29wZSI6ImF3cy5jb2duaXRvLnNpZ25pbi51c2VyLmFkbWluIiwiYXV0aF90aW1lIjoxNjc4NzMzNDI2LCJleHAiOjE2Nzg3MzQzMjksImlhdCI6MTY3ODczMzQyOSwianRpIjoiNDMxMTQzNjMtMGVhOC00NTA1LThlMGUtZjVkZjc5MWE1MDNlIiwidXNlcm5hbWUiOiJHb29nbGVfMTAyMDMxMTU4MTIxMTQxNTc1NzQ3In0.Ty3vgBuRwtzbjjfd6CPlSU29U6qQ-xTEQ3r_WeeHUh3KXzVh55_lI65wcZBtLgmZC9cmPrq7Ea6Hg1l6PQtITJFXiV5wQ3_4bmHkWP6_sQ_YABvXDbkGh7fqXvFLwQHf-8UyCESnn0Upf0eXFg09hG4BrxmWi3vhHno4nIasKdV5dpNMiZ0phZfoQfNUamgSzr78pgDrm4NWSGkpffCdwaXN3S2g9oZ7Z7Hig7H6e_qt3eGAWFVDKHjL-QuY56C2PP1rFsKSpz312b4JNAdAd8dicFzG5m3zlzJDneOskczpR2B0avUSjdis_uPsZTTYUSEUhlz4qMnRgZD2OTv6-w",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1678819830,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.7k5h7tnrnkdcg78d9ofpt1opij.contact%40akshayy.com.clockDrift",
+      "value": "1",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1678819830,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amplify-signin-with-hostedUI",
+      "value": "false",
+      "domain": ".workflow86.com",
+      "path": "/",
+      "expires": 1678819830,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app.workflow86.com",
+      "localStorage": [
+        {
+          "name": "intercom.intercom-state-gdyabshp",
+          "value": "{\"app\":{\"color\":\"#000000\",\"secondaryColor\":\"#546270\",\"openConfig\":{\"layout\":\"default\",\"openTo\":\"home\",\"spaces\":[{\"type\":\"home\",\"label\":\"Home\",\"badge\":null},{\"type\":\"messages\",\"label\":\"Messages\",\"badge\":null},{\"type\":\"help\",\"label\":\"Help\",\"badge\":null}],\"userHasReceivedChecklists\":false,\"userHasLiveNewsfeed\":false},\"selfServeSuggestionsMatch\":false,\"name\":\"Workflow86\",\"features\":{\"anonymousInboundMessages\":true,\"googleAnalytics\":false,\"hubspotInstalled\":false,\"inboundMessages\":true,\"marketoEnrichmentInstalled\":false,\"outboundMessages\":true,\"googleAnalytics4Integration\":false},\"launcherLogoUrl\":null,\"boundWebEvents\":[],\"helpCenterSiteUrl\":\"https://intercom.help/workflow86\",\"inboundConversationsDisabled\":false,\"isInstantBootEnabled\":true,\"alignment\":\"right\",\"horizontalPadding\":20,\"verticalPadding\":20,\"isDeveloperWorkspace\":false,\"customGoogleAnalyticsTrackerId\":null},\"launcher\":{\"isLauncherEnabled\":false},\"launcherDiscoveryMode\":{\"hasDiscoveredLauncher\":false},\"user\":{\"role\":\"visitor\",\"locale\":\"en\",\"hasConversations\":false},\"message\":{},\"conversations\":{\"byId\":{}},\"openOnBoot\":{\"type\":null,\"metadata\":{}},\"operator\":{\"lastComposerEvent\":0},\"router\":{\"location\":null,\"action\":null,\"previousLocations\":[]}}"
+        },
+        {
+          "name": "amplify-authenticator-authState",
+          "value": "signedIn"
+        }
+      ]
+    }
+  ]
+}

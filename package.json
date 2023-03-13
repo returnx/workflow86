@@ -1,0 +1,29 @@
+{
+  "name": "workflow86",
+  "version": "1.0.0",
+  "description": "Workflow 86 Automated Test",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/returnx/workflow86.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/returnx/workflow86/issues"
+  },
+  "homepage": "https://github.com/returnx/workflow86#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2",
+    "@typescript-eslint/eslint-plugin": "^5.54.1",
+    "@typescript-eslint/parser": "^5.54.1",
+    "eslint": "^8.36.0",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "path": "^0.12.7"
+  }
+}
